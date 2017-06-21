@@ -42,8 +42,7 @@ declaration above).
 
 3. Attach a terminal to your container.
 
-4. Run these commands:
-
+4. Run these commands:  
 ```
 su amb
 ssh $AMB_TARGET
